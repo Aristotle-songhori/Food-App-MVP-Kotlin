@@ -1,7 +1,8 @@
-package com.aristotele.foodappmvp
+package com.aristotele.foodappmvp.packages.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.aristotele.foodappmvp.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
